@@ -47,7 +47,7 @@ We want you to develop an API that exposes one RESTful endpoint. This endpoint s
  - When returning one user or a list of users return back the age of the user in addition to the date of birth
 
 ## How we will assess your work
-We are looking production quality code which utilises design patterns where appropriate and conforms to best practices and principles such as SOLID, etc. Other things we will take into consideration:
+We are looking for quality code which utilises design patterns where appropriate and conforms to best practices and principles such as SOLID, etc. Other things we will take into consideration:
 
  - Code should be testable
  - We expect you to be mindful of correct HTTP status code usage
